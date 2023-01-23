@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5N7lDI9tzWYhSG8jJloeOygDzwI6m0g3LgVii78rhVQ=",
+  "Source": "Auto.WebsiteAPI",
+  "BasePath": "_content/Auto.WebsiteAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

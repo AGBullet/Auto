@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Phone.cs \
+obj\Debug\net6.0/PhoneGrpc.cs: ../Auto.PhoneService/Protos/phone.proto

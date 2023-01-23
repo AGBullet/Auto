@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "Auto.OwnerService";
+
+package phone;
+
+// The greeting service definition.
+service Phoner {
+  // Sends a greeting
+  rpc GetPhone (PhoneRequest) returns (PhoneReply);
+}
+
+// The request message containing the user's name.
+message PhoneRequest {
+  string firstName = 1;
+  string lastName = 2;
+  string email =3;
+  string vehicleCode =4;
+}
+
+// The response message containing the greetings.
+message PhoneReply {
+  string code = 1;
+  string phone = 2;
+}

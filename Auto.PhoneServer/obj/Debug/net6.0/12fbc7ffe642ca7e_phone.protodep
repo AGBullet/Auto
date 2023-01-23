@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Phone.cs \
+obj\Debug\net6.0\Protos/PhoneGrpc.cs: Protos/phone.proto
